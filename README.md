@@ -36,8 +36,8 @@ En base a las imagenes enviadas te pedimos:
 **Aclaración**: Para este último punto se puede utilizar cualquier tipo de lenguaje o framework
 
 ### Metodología de entrega
-- Forkea este repositorio en tu cuenta personal y realiza el ejercicio ahí mismo
-- Una vez finalizado darle acceso a @gadots @gonpombo8 @mfocaraccio
+- Crear un nuevo repo en tu GitHub personal y realiza el ejercicio ahí mismo
+- Una vez finalizado darle acceso a @gadots @gonpombo8 @mfocaraccio para la revisión del mismo
 
 ### Cosideraciones Finales 
 
