@@ -5,7 +5,7 @@ El presente ejercicio tiene una modalidad integradora con 2 partes bien marcadas
 
 ### Consigna
 
-A continuación se te presentarán 2 imágenes. Una será el diseño que el equipode UX entregó a los desarrolladores y una segunda imagen en la cual se mostrará el diseño final implementado por el equipo de desarrollo.
+A continuación se te presentarán 2 imágenes. Una será el diseño que el equipo de UX entregó a los desarrolladores y una segunda imagen en la cual se mostrará el diseño final implementado por el equipo de desarrollo.
 
 **DISEÑO INICIAL (UX TEAM)**
 
