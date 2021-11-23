@@ -5,7 +5,7 @@ El presente ejercicio tiene una modalidad integradora con 2 partes bien marcadas
 
 ### Consigna
 
-A continuación se te presentarán 2 situaciones: En los siguientes pares de imágenes, Una pertenecera al diseño que el equipo de UX entregó a los desarrolladores y en la otra se mostrará el diseño final implementado por el equipo de desarrollo.
+A continuación se te presentarán 2 situaciones: En los siguientes pares de imágenes, Una pertenece al diseño que el equipo de UX documentó y entregó a los desarrolladores y en la otra se mostrará el diseño final implementado por el equipo de desarrollo.
 
 ### Situacion 1)
 
@@ -33,6 +33,8 @@ En base a las imagenes enviadas te pedimos:
 - Detallar brevemente el proceso para la detección de issues y consideraciones a la hora de reportarlos
 
 - Si encontrases un bug en la plataforma que no podés reproducir de manera consistente, cómo lo reportarías? Explicar con ejemplos
+
+- Como procederias si vieras una traduccion/redaccion que consideras erronea pero la misma se encuentra implementada tal como indica la documentacion?
 
 
 ### Bonus Points (deseables, no obligatorios)
