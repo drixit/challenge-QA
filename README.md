@@ -5,7 +5,7 @@ El presente ejercicio tiene una modalidad integradora con 2 partes bien marcadas
 
 ### Consigna
 
-A continuación se te presentarán 2 situaciones: En los siguientes pares de imágenes, Una pertenece al diseño que el equipo de UX documentó y entregó a los desarrolladores y en la otra se mostrará el diseño final implementado por el equipo de desarrollo.
+A continuación se te presentarán 2 situaciones: En los siguientes pares de imágenes, Una pertenece al diseño que el equipo de UX documentó y entregó a los desarrolladores y en la otra se muestra el diseño final implementado por el equipo de desarrollo.
 
 ### Situacion 1)
 
