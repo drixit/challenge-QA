@@ -21,11 +21,11 @@ A continuación se te presentarán 2 situaciones: En los siguientes pares de im�
 
 #### **DISEÑO INICIAL (UX TEAM)**
 
-![Diseño inicial]()
+![Diseño inicial](image17.png)
 
 #### **DISEÑO IMPLEMENTADO (DEV TEAM)**
 
-![Implementación]()
+![Implementación](image16.png)
 
 En base a las imagenes enviadas te pedimos:
 - Relevar los issues correspondientes y reportarlos en el board de tu repositorio. Nos interesa ver como los cargas y describis el error a reportar. La idea es simular una situación de trabajo del día a día.
