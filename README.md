@@ -5,7 +5,9 @@ El presente ejercicio tiene una modalidad integradora con 2 partes bien marcadas
 
 ### Consigna
 
-A continuación se te presentarán 2 imágenes. Una será el diseño que el equipo de UX entregó a los desarrolladores y una segunda imagen en la cual se mostrará el diseño final implementado por el equipo de desarrollo.
+A continuación se te presentarán 2 situaciones: En los siguientes pares de imágenes, Una pertenecera al diseño que el equipo de UX entregó a los desarrolladores y en la otra se mostrará el diseño final implementado por el equipo de desarrollo.
+
+### Situacion 1)
 
 **DISEÑO INICIAL (UX TEAM)**
 
@@ -14,6 +16,16 @@ A continuación se te presentarán 2 imágenes. Una será el diseño que el equi
 **DISEÑO IMPLEMENTADO (DEV TEAM)**
 
 ![Implementación](DEV.png)
+
+### Situacion 2)
+
+**DISEÑO INICIAL (UX TEAM)**
+
+![Diseño inicial](image 17.png)
+
+**DISEÑO IMPLEMENTADO (DEV TEAM)**
+
+![Implementación](image 16.png)
 
 En base a las imagenes enviadas te pedimos:
 - Relevar los issues correspondientes y reportarlos en el board de tu repositorio. Nos interesa ver como los cargas y describis el error a reportar. La idea es simular una situación de trabajo del día a día.
@@ -31,15 +43,11 @@ En base a las imagenes enviadas te pedimos:
 
 ![login](log-in-improvement.png)
 
-- Como automatizarías el proceso de testing para esta pantalla? Generar el código asociado comentandolo y explicandolo en detalle con comentarios dentro del mismo.
-
-**Aclaración**: Para este último punto se puede utilizar cualquier tipo de lenguaje o framework
-
 ### Metodología de entrega
 - Crear un nuevo repo en tu GitHub personal y realiza el ejercicio ahí mismo
-- Una vez finalizado darle acceso a @gadots @gonpombo8 para la revisión del mismo
+- Una vez finalizado darle acceso a @gadots @francodelaurentiis para la revisión del mismo
 
-### Cosideraciones Finales 
+### Cosideraciones Finales
 
 Este ejercicio no tiene un tiempo máximo de entrega, lo que si te pedimos es que **dentro de las 48hs de recibido nos indiques para cuando lo vas a tener finalizado**. Te invitamos a que seas vos quien ponga la fecha máxima de entrega.
 
