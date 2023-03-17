@@ -47,7 +47,7 @@ En base a las imagenes enviadas te pedimos:
 
 ### Metodología de entrega
 - Crear un nuevo repo en tu GitHub personal y realiza el ejercicio ahí mismo
-- Una vez finalizado darle acceso a @gadots @francodelaurentiis para la revisión del mismo
+- Una vez finalizado darle acceso a @bbenvenuto @juaocampo para la revisión del mismo
 
 ### Cosideraciones Finales
 
